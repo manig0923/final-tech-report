@@ -1,2 +1,3 @@
 Authors: Ryan Hong, Manasvini Garrepalli, Brandon Gallagher, Minh Nghia Huynh, Wenxuan Qiu, Neha Keshan
+
 Acknowledgement: We would also like to thank our TA, Srihari Sridharan, and all our classmates for their thoughtful feedback and support throughout the writing process of this paper. Their insights and discussions helped shape our thinking and refine our ideas. This paper is a direct outcome of what we all learned in our Data and Society class, particularly our collective exploration of data and society issues and the ways data intersects with ethics and artificial intelligence.
